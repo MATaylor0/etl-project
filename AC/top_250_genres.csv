@@ -1,0 +1,696 @@
+imdbID,Title,Genre
+tt0111161,The Shawshank Redemption,Drama
+tt0068646,The Godfather,Crime
+tt0068646,The Godfather,Drama
+tt0071562,The Godfather: Part II,Crime
+tt0071562,The Godfather: Part II,Drama
+tt0468569,The Dark Knight,Action
+tt0468569,The Dark Knight,Crime
+tt0468569,The Dark Knight,Drama
+tt0468569,The Dark Knight,Thriller
+tt0050083,12 Angry Men,Crime
+tt0050083,12 Angry Men,Drama
+tt0108052,Schindler's List,Biography
+tt0108052,Schindler's List,Drama
+tt0108052,Schindler's List,History
+tt0167260,The Lord of the Rings: The Return of the King,Action
+tt0167260,The Lord of the Rings: The Return of the King,Adventure
+tt0167260,The Lord of the Rings: The Return of the King,Drama
+tt0167260,The Lord of the Rings: The Return of the King,Fantasy
+tt0110912,Pulp Fiction,Crime
+tt0110912,Pulp Fiction,Drama
+tt0060196,"The Good, the Bad and the Ugly",Western
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Action
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Adventure
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Drama
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Fantasy
+tt0137523,Fight Club,Drama
+tt0109830,Forrest Gump,Drama
+tt0109830,Forrest Gump,Romance
+tt1375666,Inception,Action
+tt1375666,Inception,Adventure
+tt1375666,Inception,Sci-Fi
+tt1375666,Inception,Thriller
+tt0167261,The Lord of the Rings: The Two Towers,Action
+tt0167261,The Lord of the Rings: The Two Towers,Adventure
+tt0167261,The Lord of the Rings: The Two Towers,Drama
+tt0167261,The Lord of the Rings: The Two Towers,Fantasy
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Action
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Adventure
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Fantasy
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Sci-Fi
+tt0133093,The Matrix,Action
+tt0133093,The Matrix,Sci-Fi
+tt0099685,Goodfellas,Biography
+tt0099685,Goodfellas,Crime
+tt0099685,Goodfellas,Drama
+tt0073486,One Flew Over the Cuckoo's Nest,Drama
+tt0047478,Seven Samurai,Action
+tt0047478,Seven Samurai,Adventure
+tt0047478,Seven Samurai,Drama
+tt0114369,Se7en,Crime
+tt0114369,Se7en,Drama
+tt0114369,Se7en,Mystery
+tt0114369,Se7en,Thriller
+tt0118799,Life Is Beautiful,Comedy
+tt0118799,Life Is Beautiful,Drama
+tt0118799,Life Is Beautiful,Romance
+tt0118799,Life Is Beautiful,War
+tt0317248,City of God,Crime
+tt0317248,City of God,Drama
+tt0102926,The Silence of the Lambs,Crime
+tt0102926,The Silence of the Lambs,Drama
+tt0102926,The Silence of the Lambs,Thriller
+tt0038650,It's a Wonderful Life,Drama
+tt0038650,It's a Wonderful Life,Family
+tt0038650,It's a Wonderful Life,Fantasy
+tt0076759,Star Wars: Episode IV - A New Hope,Action
+tt0076759,Star Wars: Episode IV - A New Hope,Adventure
+tt0076759,Star Wars: Episode IV - A New Hope,Fantasy
+tt0076759,Star Wars: Episode IV - A New Hope,Sci-Fi
+tt0120815,Saving Private Ryan,Drama
+tt0120815,Saving Private Ryan,War
+tt0245429,Spirited Away,Animation
+tt0245429,Spirited Away,Adventure
+tt0245429,Spirited Away,Family
+tt0245429,Spirited Away,Fantasy
+tt0245429,Spirited Away,Mystery
+tt0120689,The Green Mile,Crime
+tt0120689,The Green Mile,Drama
+tt0120689,The Green Mile,Fantasy
+tt0120689,The Green Mile,Mystery
+tt0816692,Interstellar,Adventure
+tt0816692,Interstellar,Drama
+tt0816692,Interstellar,Sci-Fi
+tt0816692,Interstellar,Thriller
+tt6751668,Parasite,Comedy
+tt6751668,Parasite,Drama
+tt6751668,Parasite,Thriller
+tt0110413,Léon: The Professional,Action
+tt0110413,Léon: The Professional,Crime
+tt0110413,Léon: The Professional,Drama
+tt0110413,Léon: The Professional,Thriller
+tt0114814,The Usual Suspects,Crime
+tt0114814,The Usual Suspects,Mystery
+tt0114814,The Usual Suspects,Thriller
+tt0440107,Bijo kenshi: Futari seppuku,Short
+tt0440107,Bijo kenshi: Futari seppuku,Horror
+tt0110357,The Lion King,Animation
+tt0110357,The Lion King,Adventure
+tt0110357,The Lion King,Drama
+tt0110357,The Lion King,Family
+tt0110357,The Lion King,Musical
+tt0088763,Back to the Future,Adventure
+tt0088763,Back to the Future,Comedy
+tt0088763,Back to the Future,Sci-Fi
+tt0253474,The Pianist,Biography
+tt0253474,The Pianist,Drama
+tt0253474,The Pianist,Music
+tt0253474,The Pianist,War
+tt0103064,Terminator 2: Judgment Day,Action
+tt0103064,Terminator 2: Judgment Day,Sci-Fi
+tt0120586,American History X,Drama
+tt0027977,Modern Times,Comedy
+tt0027977,Modern Times,Drama
+tt0027977,Modern Times,Family
+tt0027977,Modern Times,Romance
+tt0054215,Psycho,Horror
+tt0054215,Psycho,Mystery
+tt0054215,Psycho,Thriller
+tt0172495,Gladiator,Action
+tt0172495,Gladiator,Adventure
+tt0172495,Gladiator,Drama
+tt0021749,City Lights,Comedy
+tt0021749,City Lights,Drama
+tt0021749,City Lights,Romance
+tt0407887,The Departed,Crime
+tt0407887,The Departed,Drama
+tt0407887,The Departed,Thriller
+tt1675434,The Intouchables,Biography
+tt1675434,The Intouchables,Comedy
+tt1675434,The Intouchables,Drama
+tt2582802,Whiplash,Drama
+tt2582802,Whiplash,Music
+tt0482571,The Prestige,Drama
+tt0482571,The Prestige,Mystery
+tt0482571,The Prestige,Sci-Fi
+tt0482571,The Prestige,Thriller
+tt0095327,Grave of the Fireflies,Animation
+tt0095327,Grave of the Fireflies,Drama
+tt0095327,Grave of the Fireflies,War
+tt8503618,Hamilton,Biography
+tt8503618,Hamilton,Drama
+tt8503618,Hamilton,History
+tt8503618,Hamilton,Musical
+tt0064116,Once Upon a Time in the West,Western
+tt0034583,Casablanca,Drama
+tt0034583,Casablanca,Romance
+tt0034583,Casablanca,War
+tt0095765,Cinema Paradiso,Drama
+tt0047396,Rear Window,Mystery
+tt0047396,Rear Window,Thriller
+tt0078748,Alien,Horror
+tt0078748,Alien,Sci-Fi
+tt0078788,Apocalypse Now,Drama
+tt0078788,Apocalypse Now,Mystery
+tt0078788,Apocalypse Now,War
+tt0209144,Memento,Mystery
+tt0209144,Memento,Thriller
+tt0032553,The Great Dictator,Comedy
+tt0032553,The Great Dictator,Drama
+tt0032553,The Great Dictator,War
+tt0082971,Raiders of the Lost Ark,Action
+tt0082971,Raiders of the Lost Ark,Adventure
+tt1853728,Django Unchained,Drama
+tt1853728,Django Unchained,Western
+tt0405094,The Lives of Others,Drama
+tt0405094,The Lives of Others,Mystery
+tt0405094,The Lives of Others,Thriller
+tt7286456,Joker,Crime
+tt7286456,Joker,Drama
+tt7286456,Joker,Thriller
+tt0050825,Paths of Glory,Drama
+tt0050825,Paths of Glory,War
+tt0910970,WALL·E,Animation
+tt0910970,WALL·E,Adventure
+tt0910970,WALL·E,Family
+tt0910970,WALL·E,Sci-Fi
+tt0081505,The Shining,Drama
+tt0081505,The Shining,Horror
+tt4154756,Avengers: Infinity War,Action
+tt4154756,Avengers: Infinity War,Adventure
+tt4154756,Avengers: Infinity War,Sci-Fi
+tt0158253,Sunset Boulevard,Short
+tt0051201,Witness for the Prosecution,Crime
+tt0051201,Witness for the Prosecution,Drama
+tt0051201,Witness for the Prosecution,Mystery
+tt0051201,Witness for the Prosecution,Thriller
+tt4633694,Spider-Man: Into the Spider-Verse,Animation
+tt4633694,Spider-Man: Into the Spider-Verse,Action
+tt4633694,Spider-Man: Into the Spider-Verse,Adventure
+tt4633694,Spider-Man: Into the Spider-Verse,Family
+tt4633694,Spider-Man: Into the Spider-Verse,Sci-Fi
+tt0364569,Oldboy,Action
+tt0364569,Oldboy,Drama
+tt0364569,Oldboy,Mystery
+tt0364569,Oldboy,Thriller
+tt0119698,Princess Mononoke,Animation
+tt0119698,Princess Mononoke,Adventure
+tt0119698,Princess Mononoke,Fantasy
+tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Comedy
+tt1345836,The Dark Knight Rises,Action
+tt1345836,The Dark Knight Rises,Adventure
+tt0087843,Once Upon a Time in America,Crime
+tt0087843,Once Upon a Time in America,Drama
+tt0090605,Aliens,Action
+tt0090605,Aliens,Adventure
+tt0090605,Aliens,Sci-Fi
+tt0090605,Aliens,Thriller
+tt5726616,Call Me by Your Name,Drama
+tt5726616,Call Me by Your Name,Romance
+tt4154796,Avengers: Endgame,Action
+tt4154796,Avengers: Endgame,Adventure
+tt4154796,Avengers: Endgame,Drama
+tt4154796,Avengers: Endgame,Sci-Fi
+tt2380307,Coco,Animation
+tt2380307,Coco,Adventure
+tt2380307,Coco,Family
+tt2380307,Coco,Fantasy
+tt2380307,Coco,Music
+tt2380307,Coco,Mystery
+tt0169547,American Beauty,Drama
+tt0112573,Braveheart,Biography
+tt0112573,Braveheart,Drama
+tt0112573,Braveheart,History
+tt0112573,Braveheart,War
+tt1187043,3 Idiots,Comedy
+tt1187043,3 Idiots,Drama
+tt0082096,Das Boot,Adventure
+tt0082096,Das Boot,Drama
+tt0082096,Das Boot,Thriller
+tt0082096,Das Boot,War
+tt0114709,Toy Story,Animation
+tt0114709,Toy Story,Adventure
+tt0114709,Toy Story,Comedy
+tt0114709,Toy Story,Family
+tt0114709,Toy Story,Fantasy
+tt1067255,Tengoku to jigoku,Drama
+tt1067255,Tengoku to jigoku,Thriller
+tt0086879,Amadeus,Biography
+tt0086879,Amadeus,Drama
+tt0086879,Amadeus,History
+tt0086879,Amadeus,Music
+tt0361748,Inglourious Basterds,Adventure
+tt0361748,Inglourious Basterds,Drama
+tt0361748,Inglourious Basterds,War
+tt0086190,Star Wars: Episode VI - Return of the Jedi,Action
+tt0086190,Star Wars: Episode VI - Return of the Jedi,Adventure
+tt0086190,Star Wars: Episode VI - Return of the Jedi,Fantasy
+tt0086190,Star Wars: Episode VI - Return of the Jedi,Sci-Fi
+tt0986264,Like Stars on Earth,Drama
+tt0986264,Like Stars on Earth,Family
+tt0119217,Good Will Hunting,Drama
+tt0119217,Good Will Hunting,Romance
+tt0105236,Reservoir Dogs,Crime
+tt0105236,Reservoir Dogs,Drama
+tt0105236,Reservoir Dogs,Thriller
+tt0062622,2001: A Space Odyssey,Adventure
+tt0062622,2001: A Space Odyssey,Sci-Fi
+tt0180093,Requiem for a Dream,Drama
+tt0052357,Vertigo,Mystery
+tt0052357,Vertigo,Romance
+tt0052357,Vertigo,Thriller
+tt0046912,Dial M for Murder,Crime
+tt0046912,Dial M for Murder,Thriller
+tt0338013,Eternal Sunshine of the Spotless Mind,Drama
+tt0338013,Eternal Sunshine of the Spotless Mind,Romance
+tt0338013,Eternal Sunshine of the Spotless Mind,Sci-Fi
+tt5074352,Dangal,Action
+tt5074352,Dangal,Biography
+tt5074352,Dangal,Drama
+tt5074352,Dangal,Sport
+tt2106476,The Hunt,Drama
+tt0033467,Citizen Kane,Drama
+tt0033467,Citizen Kane,Mystery
+tt8579674,1917,Drama
+tt8579674,1917,War
+tt0093058,Full Metal Jacket,Drama
+tt0093058,Full Metal Jacket,War
+tt0040522,Bicycle Thieves,Drama
+tt0012349,The Kid,Comedy
+tt0012349,The Kid,Drama
+tt0012349,The Kid,Family
+tt0045152,Singin' in the Rain,Comedy
+tt0045152,Singin' in the Rain,Musical
+tt0045152,Singin' in the Rain,Romance
+tt0066921,A Clockwork Orange,Crime
+tt0066921,A Clockwork Orange,Drama
+tt0066921,A Clockwork Orange,Sci-Fi
+tt0053125,North by Northwest,Adventure
+tt0053125,North by Northwest,Mystery
+tt0053125,North by Northwest,Thriller
+tt0208092,Snatch,Comedy
+tt0208092,Snatch,Crime
+tt0086250,Scarface,Crime
+tt0086250,Scarface,Drama
+tt0075314,Taxi Driver,Crime
+tt0075314,Taxi Driver,Drama
+tt0044741,Ikiru,Drama
+tt0211915,Amélie,Comedy
+tt0211915,Amélie,Romance
+tt0056172,Lawrence of Arabia,Adventure
+tt0056172,Lawrence of Arabia,Biography
+tt0056172,Lawrence of Arabia,Drama
+tt0056172,Lawrence of Arabia,History
+tt0056172,Lawrence of Arabia,War
+tt0435761,Toy Story 3,Animation
+tt0435761,Toy Story 3,Adventure
+tt0435761,Toy Story 3,Comedy
+tt0435761,Toy Story 3,Family
+tt0435761,Toy Story 3,Fantasy
+tt0070735,The Sting,Comedy
+tt0070735,The Sting,Crime
+tt0070735,The Sting,Drama
+tt0017136,Metropolis,Drama
+tt0017136,Metropolis,Sci-Fi
+tt1832382,A Separation,Drama
+tt1832382,A Separation,Thriller
+tt1255953,Incendies,Drama
+tt1255953,Incendies,Mystery
+tt1255953,Incendies,War
+tt0059578,For a Few Dollars More,Western
+tt0053604,The Apartment,Comedy
+tt0053604,The Apartment,Drama
+tt0053604,The Apartment,Romance
+tt0036775,Double Indemnity,Crime
+tt0036775,Double Indemnity,Drama
+tt0036775,Double Indemnity,Film-Noir
+tt0036775,Double Indemnity,Mystery
+tt0036775,Double Indemnity,Thriller
+tt0056592,To Kill a Mockingbird,Crime
+tt0056592,To Kill a Mockingbird,Drama
+tt1049413,Up,Animation
+tt1049413,Up,Adventure
+tt1049413,Up,Comedy
+tt1049413,Up,Family
+tt0097576,Indiana Jones and the Last Crusade,Action
+tt0097576,Indiana Jones and the Last Crusade,Adventure
+tt0113277,Heat,Crime
+tt0113277,Heat,Drama
+tt0113277,Heat,Thriller
+tt0119488,L.A. Confidential,Crime
+tt0119488,L.A. Confidential,Drama
+tt0119488,L.A. Confidential,Mystery
+tt0119488,L.A. Confidential,Thriller
+tt0095016,Die Hard,Action
+tt0095016,Die Hard,Thriller
+tt0071853,Monty Python and the Holy Grail,Adventure
+tt0071853,Monty Python and the Holy Grail,Comedy
+tt0071853,Monty Python and the Holy Grail,Fantasy
+tt0042876,Rashomon,Crime
+tt0042876,Rashomon,Drama
+tt0042876,Rashomon,Mystery
+tt0055630,Yojimbo,Action
+tt0055630,Yojimbo,Drama
+tt0055630,Yojimbo,Thriller
+tt0372784,Batman Begins,Action
+tt0372784,Batman Begins,Adventure
+tt6966692,Green Book,Biography
+tt6966692,Green Book,Comedy
+tt6966692,Green Book,Drama
+tt6966692,Green Book,Music
+tt0363163,Downfall,Biography
+tt0363163,Downfall,Drama
+tt0363163,Downfall,History
+tt0363163,Downfall,War
+tt0118849,Children of Heaven,Drama
+tt0118849,Children of Heaven,Family
+tt0118849,Children of Heaven,Sport
+tt0105695,Unforgiven,Drama
+tt0105695,Unforgiven,Western
+tt0089881,Ran,Action
+tt0089881,Ran,Drama
+tt0089881,Ran,War
+tt0053291,Some Like It Hot,Comedy
+tt0053291,Some Like It Hot,Music
+tt0053291,Some Like It Hot,Romance
+tt0347149,Howl's Moving Castle,Animation
+tt0347149,Howl's Moving Castle,Adventure
+tt0347149,Howl's Moving Castle,Family
+tt0347149,Howl's Moving Castle,Fantasy
+tt0042192,All About Eve,Drama
+tt0268978,A Beautiful Mind,Biography
+tt0268978,A Beautiful Mind,Drama
+tt0381061,Casino Royale,Action
+tt0381061,Casino Royale,Adventure
+tt0381061,Casino Royale,Thriller
+tt0057115,The Great Escape,Adventure
+tt0057115,The Great Escape,Drama
+tt0057115,The Great Escape,History
+tt0057115,The Great Escape,Thriller
+tt0057115,The Great Escape,War
+tt0993846,The Wolf of Wall Street,Biography
+tt0993846,The Wolf of Wall Street,Crime
+tt0993846,The Wolf of Wall Street,Drama
+tt0457430,Pan's Labyrinth,Drama
+tt0457430,Pan's Labyrinth,Fantasy
+tt0457430,Pan's Labyrinth,War
+tt1305806,The Secret in Their Eyes,Drama
+tt1305806,The Secret in Their Eyes,Mystery
+tt1305806,The Secret in Their Eyes,Romance
+tt1305806,The Secret in Their Eyes,Thriller
+tt0120735,"Lock, Stock and Two Smoking Barrels",Action
+tt0120735,"Lock, Stock and Two Smoking Barrels",Comedy
+tt0120735,"Lock, Stock and Two Smoking Barrels",Crime
+tt0469494,There Will Be Blood,Drama
+tt0081398,Raging Bull,Biography
+tt0081398,Raging Bull,Drama
+tt0081398,Raging Bull,Sport
+tt0096283,My Neighbor Totoro,Animation
+tt0096283,My Neighbor Totoro,Family
+tt0096283,My Neighbor Totoro,Fantasy
+tt0066763,Anand,Drama
+tt0066763,Anand,Musical
+tt0055031,Judgment at Nuremberg,Drama
+tt0055031,Judgment at Nuremberg,War
+tt0040897,The Treasure of the Sierra Madre,Adventure
+tt0040897,The Treasure of the Sierra Madre,Drama
+tt0040897,The Treasure of the Sierra Madre,Western
+tt0046912,Dial M for Murder,Crime
+tt0046912,Dial M for Murder,Thriller
+tt5027774,"Three Billboards Outside Ebbing, Missouri",Comedy
+tt5027774,"Three Billboards Outside Ebbing, Missouri",Crime
+tt5027774,"Three Billboards Outside Ebbing, Missouri",Drama
+tt0071315,Chinatown,Drama
+tt0071315,Chinatown,Mystery
+tt0071315,Chinatown,Thriller
+tt0015864,The Gold Rush,Adventure
+tt0015864,The Gold Rush,Comedy
+tt0015864,The Gold Rush,Drama
+tt0015864,The Gold Rush,Western
+tt1130884,Shutter Island,Mystery
+tt1130884,Shutter Island,Thriller
+tt0477348,No Country for Old Men,Crime
+tt0477348,No Country for Old Men,Drama
+tt0477348,No Country for Old Men,Thriller
+tt0434409,V for Vendetta,Action
+tt0434409,V for Vendetta,Drama
+tt0434409,V for Vendetta,Sci-Fi
+tt0434409,V for Vendetta,Thriller
+tt0050976,The Seventh Seal,Drama
+tt0050976,The Seventh Seal,Fantasy
+tt2096673,Inside Out,Animation
+tt2096673,Inside Out,Adventure
+tt2096673,Inside Out,Comedy
+tt2096673,Inside Out,Drama
+tt2096673,Inside Out,Family
+tt2096673,Inside Out,Fantasy
+tt1291584,Warrior,Action
+tt1291584,Warrior,Drama
+tt1291584,Warrior,Sport
+tt0080678,The Elephant Man,Biography
+tt0080678,The Elephant Man,Drama
+tt0084787,The Thing,Horror
+tt0084787,The Thing,Mystery
+tt0084787,The Thing,Sci-Fi
+tt0167404,The Sixth Sense,Drama
+tt0167404,The Sixth Sense,Mystery
+tt0167404,The Sixth Sense,Thriller
+tt0117951,Trainspotting,Drama
+tt0107290,Jurassic Park,Action
+tt0107290,Jurassic Park,Adventure
+tt0107290,Jurassic Park,Sci-Fi
+tt0107290,Jurassic Park,Thriller
+tt0031381,Gone with the Wind,Drama
+tt0031381,Gone with the Wind,History
+tt0031381,Gone with the Wind,Romance
+tt0031381,Gone with the Wind,War
+tt0120382,The Truman Show,Comedy
+tt0120382,The Truman Show,Drama
+tt0120382,The Truman Show,Sci-Fi
+tt0266543,Finding Nemo,Animation
+tt0266543,Finding Nemo,Adventure
+tt0266543,Finding Nemo,Comedy
+tt0266543,Finding Nemo,Family
+tt0050986,Wild Strawberries,Drama
+tt0050986,Wild Strawberries,Romance
+tt0083658,Blade Runner,Action
+tt0083658,Blade Runner,Sci-Fi
+tt0083658,Blade Runner,Thriller
+tt0079944,Stalker,Drama
+tt0079944,Stalker,Sci-Fi
+tt0266697,Kill Bill: Vol. 1,Action
+tt0266697,Kill Bill: Vol. 1,Crime
+tt0266697,Kill Bill: Vol. 1,Thriller
+tt0050212,The Bridge on the River Kwai,Adventure
+tt0050212,The Bridge on the River Kwai,Drama
+tt0050212,The Bridge on the River Kwai,War
+tt3170832,Room,Drama
+tt3170832,Room,Thriller
+tt0353969,Memories of Murder,Action
+tt0353969,Memories of Murder,Crime
+tt0353969,Memories of Murder,Drama
+tt0353969,Memories of Murder,Mystery
+tt0353969,Memories of Murder,Thriller
+tt0116282,Fargo,Crime
+tt0116282,Fargo,Drama
+tt0116282,Fargo,Thriller
+tt0046438,Tokyo Story,Drama
+tt1205489,Gran Torino,Drama
+tt0041959,The Third Man,Film-Noir
+tt0041959,The Third Man,Mystery
+tt0041959,The Third Man,Thriller
+tt0047296,On the Waterfront,Crime
+tt0047296,On the Waterfront,Drama
+tt0047296,On the Waterfront,Thriller
+tt3011894,Wild Tales,Comedy
+tt3011894,Wild Tales,Drama
+tt3011894,Wild Tales,Thriller
+tt0077416,The Deer Hunter,Drama
+tt0077416,The Deer Hunter,War
+tt4729430,Klaus,Animation
+tt4729430,Klaus,Adventure
+tt4729430,Klaus,Comedy
+tt4729430,Klaus,Family
+tt0107207,In the Name of the Father,Biography
+tt0107207,In the Name of the Father,Drama
+tt0978762,Mary and Max,Animation
+tt0978762,Mary and Max,Comedy
+tt0978762,Mary and Max,Drama
+tt0978762,Mary and Max,Family
+tt6148156,Vikram Vedha,Action
+tt6148156,Vikram Vedha,Crime
+tt6148156,Vikram Vedha,Thriller
+tt2267998,Gone Girl,Drama
+tt2267998,Gone Girl,Mystery
+tt2267998,Gone Girl,Thriller
+tt2278388,The Grand Budapest Hotel,Adventure
+tt2278388,The Grand Budapest Hotel,Comedy
+tt2278388,The Grand Budapest Hotel,Crime
+tt2119532,Hacksaw Ridge,Biography
+tt2119532,Hacksaw Ridge,Drama
+tt2119532,Hacksaw Ridge,History
+tt2119532,Hacksaw Ridge,War
+tt0112471,Before Sunrise,Drama
+tt0112471,Before Sunrise,Romance
+tt8108198,Andhadhun,Crime
+tt8108198,Andhadhun,Drama
+tt8108198,Andhadhun,Music
+tt8108198,Andhadhun,Mystery
+tt8108198,Andhadhun,Thriller
+tt0264464,Catch Me If You Can,Biography
+tt0264464,Catch Me If You Can,Crime
+tt0264464,Catch Me If You Can,Drama
+tt0060827,Persona,Drama
+tt0060827,Persona,Thriller
+tt0118715,The Big Lebowski,Comedy
+tt0118715,The Big Lebowski,Crime
+tt0118715,The Big Lebowski,Sport
+tt0035446,To Be or Not to Be,Comedy
+tt0035446,To Be or Not to Be,War
+tt1392214,Prisoners,Crime
+tt1392214,Prisoners,Drama
+tt1392214,Prisoners,Mystery
+tt1392214,Prisoners,Thriller
+tt0015324,Sherlock Jr.,Action
+tt0015324,Sherlock Jr.,Comedy
+tt0015324,Sherlock Jr.,Romance
+tt0252361,Davaro: Son Eskiya,Adventure
+tt0252361,Davaro: Son Eskiya,Comedy
+tt0252361,Davaro: Son Eskiya,Drama
+tt0017925,The General,Action
+tt0017925,The General,Adventure
+tt0017925,The General,Comedy
+tt0017925,The General,Drama
+tt0017925,The General,War
+tt0892769,How to Train Your Dragon,Animation
+tt0892769,How to Train Your Dragon,Action
+tt0892769,How to Train Your Dragon,Adventure
+tt0892769,How to Train Your Dragon,Family
+tt0892769,How to Train Your Dragon,Fantasy
+tt2024544,12 Years a Slave,Biography
+tt2024544,12 Years a Slave,Drama
+tt2024544,12 Years a Slave,History
+tt0031679,Mr. Smith Goes to Washington,Comedy
+tt0031679,Mr. Smith Goes to Washington,Drama
+tt0072684,Barry Lyndon,Adventure
+tt0072684,Barry Lyndon,Drama
+tt0072684,Barry Lyndon,History
+tt0072684,Barry Lyndon,War
+tt1392190,Mad Max: Fury Road,Action
+tt1392190,Mad Max: Fury Road,Adventure
+tt1392190,Mad Max: Fury Road,Sci-Fi
+tt1392190,Mad Max: Fury Road,Thriller
+tt0405159,Million Dollar Baby,Drama
+tt0405159,Million Dollar Baby,Sport
+tt1285016,The Social Network,Biography
+tt1285016,The Social Network,Drama
+tt0092005,Stand by Me,Adventure
+tt0092005,Stand by Me,Drama
+tt0097165,Dead Poets Society,Comedy
+tt0097165,Dead Poets Society,Drama
+tt0061512,Cool Hand Luke,Crime
+tt0061512,Cool Hand Luke,Drama
+tt0052618,Ben-Hur,Adventure
+tt0052618,Ben-Hur,Drama
+tt0052618,Ben-Hur,History
+tt1028532,Hachi: A Dog's Tale,Drama
+tt1028532,Hachi: A Dog's Tale,Family
+tt1201607,Harry Potter and the Deathly Hallows: Part 2,Adventure
+tt1201607,Harry Potter and the Deathly Hallows: Part 2,Drama
+tt1201607,Harry Potter and the Deathly Hallows: Part 2,Fantasy
+tt1201607,Harry Potter and the Deathly Hallows: Part 2,Mystery
+tt0091763,Platoon,Drama
+tt0091763,Platoon,War
+tt0758758,Into the Wild,Adventure
+tt0758758,Into the Wild,Biography
+tt0758758,Into the Wild,Drama
+tt3315342,Logan,Action
+tt3315342,Logan,Drama
+tt3315342,Logan,Sci-Fi
+tt3315342,Logan,Thriller
+tt0079470,Monty Python's Life of Brian,Comedy
+tt1979320,Rush,Action
+tt1979320,Rush,Biography
+tt1979320,Rush,Drama
+tt1979320,Rush,Sport
+tt4016934,The Handmaiden,Drama
+tt4016934,The Handmaiden,Romance
+tt4016934,The Handmaiden,Thriller
+tt0053198,The 400 Blows,Crime
+tt0053198,The 400 Blows,Drama
+tt0060107,Andrei Rublev,Biography
+tt0060107,Andrei Rublev,Drama
+tt0060107,Andrei Rublev,History
+tt1895587,Spotlight,Biography
+tt1895587,Spotlight,Crime
+tt1895587,Spotlight,Drama
+tt0395169,Hotel Rwanda,Biography
+tt0395169,Hotel Rwanda,Drama
+tt0395169,Hotel Rwanda,History
+tt0395169,Hotel Rwanda,War
+tt0113247,La Haine,Crime
+tt0113247,La Haine,Drama
+tt0245712,Amores Perros,Drama
+tt0245712,Amores Perros,Thriller
+tt0075148,Rocky,Drama
+tt0075148,Rocky,Sport
+tt0087544,Nausicaä of the Valley of the Wind,Animation
+tt0087544,Nausicaä of the Valley of the Wind,Adventure
+tt0087544,Nausicaä of the Valley of the Wind,Fantasy
+tt0087544,Nausicaä of the Valley of the Wind,Sci-Fi
+tt1954470,Gangs of Wasseypur,Action
+tt1954470,Gangs of Wasseypur,Crime
+tt1954470,Gangs of Wasseypur,Drama
+tt1954470,Gangs of Wasseypur,Thriller
+tt0198781,"Monsters, Inc.",Animation
+tt0198781,"Monsters, Inc.",Adventure
+tt0198781,"Monsters, Inc.",Comedy
+tt0198781,"Monsters, Inc.",Family
+tt0198781,"Monsters, Inc.",Fantasy
+tt0032976,Rebecca,Drama
+tt0032976,Rebecca,Mystery
+tt0032976,Rebecca,Romance
+tt0032976,Rebecca,Thriller
+tt0405508,Rang De Basanti,Comedy
+tt0405508,Rang De Basanti,Drama
+tt0381681,Before Sunset,Drama
+tt0381681,Before Sunset,Romance
+tt0118694,In the Mood for Love,Drama
+tt0118694,In the Mood for Love,Romance
+tt8613070,Portrait of a Lady on Fire,Drama
+tt8613070,Portrait of a Lady on Fire,Romance
+tt0087884,"Paris, Texas",Drama
+tt0025316,It Happened One Night,Comedy
+tt0025316,It Happened One Night,Romance
+tt4430212,Drishyam,Crime
+tt4430212,Drishyam,Drama
+tt4430212,Drishyam,Mystery
+tt4430212,Drishyam,Thriller
+tt4857264,The Invisible Guest,Crime
+tt4857264,The Invisible Guest,Drama
+tt4857264,The Invisible Guest,Mystery
+tt4857264,The Invisible Guest,Thriller
+tt0093779,The Princess Bride,Adventure
+tt0093779,The Princess Bride,Family
+tt0093779,The Princess Bride,Fantasy
+tt0093779,The Princess Bride,Romance
+tt1454029,The Help,Drama
+tt0018773,The Circus,Comedy
+tt0018773,The Circus,Romance
+tt0088247,The Terminator,Action
+tt0088247,The Terminator,Sci-Fi
+tt2991224,Tangerines,Drama
+tt2991224,Tangerines,War
+tt0103639,Aladdin,Animation
+tt0103639,Aladdin,Adventure
+tt0103639,Aladdin,Comedy
+tt0103639,Aladdin,Family
+tt0103639,Aladdin,Fantasy
+tt0103639,Aladdin,Musical
+tt0103639,Aladdin,Romance
+tt0169858,Neon Genesis Evangelion: The End of Evangelion,Animation
+tt0169858,Neon Genesis Evangelion: The End of Evangelion,Action
+tt0169858,Neon Genesis Evangelion: The End of Evangelion,Drama
+tt0169858,Neon Genesis Evangelion: The End of Evangelion,Fantasy
+tt0169858,Neon Genesis Evangelion: The End of Evangelion,Sci-Fi
