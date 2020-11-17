@@ -1,4 +1,4 @@
-Rank,Title,Rating
+Rating Rank,Title,Rating
 1,The Shawshank Redemption,9.2
 2,The Godfather,9.1
 3,The Godfather: Part II,9.0
@@ -77,12 +77,12 @@ Rank,Title,Rating
 76,Coco,8.3
 77,American Beauty,8.3
 78,Braveheart,8.3
-79,3 Idiots,8.3
-80,Das Boot,8.3
+79,Das Boot,8.3
+80,3 Idiots,8.3
 81,Toy Story,8.3
 82,High and Low,8.3
-83,Amadeus,8.3
-84,Capernaum,8.3
+83,Capernaum,8.3
+84,Amadeus,8.3
 85,Inglourious Basterds,8.3
 86,Star Wars: Episode VI - Return of the Jedi,8.3
 87,Like Stars on Earth,8.3
@@ -96,7 +96,7 @@ Rank,Title,Rating
 95,Dangal,8.3
 96,The Hunt,8.3
 97,Citizen Kane,8.3
-98,1917,8.3
+98,1917,8.2
 99,Full Metal Jacket,8.2
 100,Bicycle Thieves,8.2
 101,The Kid,8.2
@@ -107,8 +107,8 @@ Rank,Title,Rating
 106,Scarface,8.2
 107,Taxi Driver,8.2
 108,Ikiru,8.2
-109,Lawrence of Arabia,8.2
-110,Amélie,8.2
+109,Amélie,8.2
+110,Lawrence of Arabia,8.2
 111,Toy Story 3,8.2
 112,The Sting,8.2
 113,Metropolis,8.2
@@ -135,8 +135,8 @@ Rank,Title,Rating
 134,Ran,8.2
 135,Some Like It Hot,8.2
 136,Howl's Moving Castle,8.2
-137,A Beautiful Mind,8.2
-138,All About Eve,8.2
+137,All About Eve,8.2
+138,A Beautiful Mind,8.2
 139,Casino,8.2
 140,The Great Escape,8.2
 141,The Wolf of Wall Street,8.2
@@ -153,8 +153,8 @@ Rank,Title,Rating
 152,"Three Billboards Outside Ebbing, Missouri",8.1
 153,Chinatown,8.1
 154,The Gold Rush,8.1
-155,My Father and My Son,8.1
-156,Shutter Island,8.1
+155,Shutter Island,8.1
+156,My Father and My Son,8.1
 157,No Country for Old Men,8.1
 158,V for Vendetta,8.1
 159,The Seventh Seal,8.1
@@ -174,26 +174,26 @@ Rank,Title,Rating
 173,Kill Bill: Vol. 1,8.1
 174,The Bridge on the River Kwai,8.1
 175,Room,8.1
-176,Fargo,8.1
-177,Memories of Murder,8.1
+176,Memories of Murder,8.1
+177,Fargo,8.1
 178,Tokyo Story,8.1
-179,The Third Man,8.1
-180,Gran Torino,8.1
+179,Gran Torino,8.1
+180,The Third Man,8.1
 181,On the Waterfront,8.1
 182,Wild Tales,8.1
 183,The Deer Hunter,8.1
-184,Vikram Vedha,8.1
-185,Klaus,8.1
-186,In the Name of the Father,8.1
-187,Mary and Max,8.1
+184,Klaus,8.1
+185,In the Name of the Father,8.1
+186,Mary and Max,8.1
+187,Vikram Vedha,8.1
 188,Gone Girl,8.1
 189,The Grand Budapest Hotel,8.1
 190,Hacksaw Ridge,8.1
 191,Before Sunrise,8.1
 192,Andhadhun,8.1
 193,Catch Me If You Can,8.1
-194,The Big Lebowski,8.1
-195,Persona,8.1
+194,Persona,8.1
+195,The Big Lebowski,8.1
 196,To Be or Not to Be,8.1
 197,Prisoners,8.1
 198,Sherlock Jr.,8.1
@@ -201,8 +201,8 @@ Rank,Title,Rating
 200,The General,8.1
 201,How to Train Your Dragon,8.1
 202,Ford v Ferrari,8.1
-203,Mr. Smith Goes to Washington,8.1
-204,12 Years a Slave,8.1
+203,12 Years a Slave,8.1
+204,Mr. Smith Goes to Washington,8.1
 205,Barry Lyndon,8.1
 206,Mad Max: Fury Road,8.1
 207,Million Dollar Baby,8.1
@@ -225,8 +225,8 @@ Rank,Title,Rating
 224,Andrei Rublev,8.0
 225,Spotlight,8.0
 226,Hotel Rwanda,8.0
-227,Amores Perros,8.0
-228,La Haine,8.0
+227,La Haine,8.0
+228,Amores Perros,8.0
 229,Rififi,8.0
 230,Rocky,8.0
 231,Nausicaä of the Valley of the Wind,8.0
@@ -235,8 +235,8 @@ Rank,Title,Rating
 234,Rebecca,8.0
 235,Rang De Basanti,8.0
 236,Before Sunset,8.0
-237,Portrait of a Lady on Fire,8.0
-238,In the Mood for Love,8.0
+237,In the Mood for Love,8.0
+238,Portrait of a Lady on Fire,8.0
 239,"Paris, Texas",8.0
 240,It Happened One Night,8.0
 241,Drishyam,8.0
@@ -247,5 +247,5 @@ Rank,Title,Rating
 246,The Battle of Algiers,8.0
 247,The Terminator,8.0
 248,Tangerines,8.0
-249,A Silent Voice: The Movie,8.0
-250,Aladdin,8.0
+249,Aladdin,8.0
+250,Neon Genesis Evangelion: The End of Evangelion,8.0

@@ -1,101 +1,101 @@
-Rank,Title,Rating
-1,Holidate,6.1
-2,Borat Subsequent Moviefilm,6.8
-3,Hocus Pocus,6.9
-4,The Witches,5.4
-5,His House,6.4
-6,Rebecca,6.0
+Popularity Rank,Title,Rating
+1,The New Mutants,5.3
+2,Holidate,6.1
+3,Borat Subsequent Moviefilm,6.8
+4,Knock Knock,4.9
+5,Superintelligence,
+6,Happiest Season,
 7,The Trial of the Chicago 7,7.9
-8,Knock Knock,4.9
-9,Hubie Halloween,5.2
-10,Halloween,7.8
-11,After We Collided,5.1
-12,Rogue City,6.1
-13,Tenet,7.8
-14,Halloween Kills,
-15,Songbird,
-16,Love and Monsters,7.0
-17,The Witches,6.9
-18,The Craft: Legacy,4.2
-19,Let Him Go,7.1
-20,Operation Christmas Drop,5.9
-21,The Untouchables,7.9
-22,Halloween,6.5
-23,The Rocky Horror Picture Show,7.4
-24,The Nightmare Before Christmas,8.0
-25,Come Play,5.8
-26,Over the Moon,6.6
-27,Possessor Uncut,6.4
-28,Enola Holmes,6.6
-29,The Invisible Man,7.1
-30,Dr. No,7.2
-31,The Devil All the Time,7.1
-32,The Addams Family,6.9
-33,The Rock,7.4
-34,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,7.3
-35,Zardoz,5.9
-36,Hereditary,7.3
-37,It,7.3
-38,Emma.,6.7
-39,The New Mutants,5.4
-40,The Gentlemen,7.8
-41,365 Days,3.3
-42,The League of Extraordinary Gentlemen,5.8
-43,Spell,5.3
-44,Nobody Sleeps in the Woods Tonight,4.8
-45,On the Rocks,6.5
-46,Beetlejuice,7.5
-47,Doctor Sleep,7.3
-48,Harry Potter and the Sorcerer's Stone,7.6
-49,The Witch,6.9
-50,Midsommar,7.1
-51,V for Vendetta,8.2
-52,Goldfinger,7.7
-53,Knives Out,7.9
-54,The Shining,8.4
-55,Unhinged,6.0
-56,Parasite,8.6
-57,The Hunt for Red October,7.6
-58,Indiana Jones and the Last Crusade,8.2
-59,Scream,7.2
-60,Once Upon a Time... In Hollywood,7.6
-61,Coco,8.4
-62,The Name of the Rose,7.7
-63,Never Say Never Again,6.2
-64,No Time to Die,
-65,The Godfather,9.2
-66,Highlander,7.1
-67,It Chapter Two,6.5
-68,The SpongeBob Movie: Sponge on the Run,6.1
-69,The Craft,6.4
-70,Addams Family Values,6.8
-71,From Russia with Love,7.4
-72,Poltergeist,7.3
-73,1917,8.3
-74,Mulan,5.4
-75,Freaky,6.9
-76,Clue,7.3
-77,The Man Who Would Be King,7.8
-78,Honest Thief,6.1
-79,Sleepy Hollow,7.3
-80,The Cabin in the Woods,7.0
-81,The Midnight Sky,
-82,After,5.3
-83,The Exorcist,8.0
-84,Joker,8.5
-85,Stardust,3.9
-86,Avengers: Endgame,8.4
-87,The Lie,5.8
-88,Easy A,7.0
-89,The Silence of the Lambs,8.6
-90,The Lighthouse,7.5
-91,Sinister,6.8
-92,The Conjuring,7.5
-93,Thunderball,7.0
-94,The Kids Are All Right,7.0
-95,Antebellum,5.5
-96,Get Out,7.7
-97,Dune,
-98,The Suicide Squad,
-99,The Shawshank Redemption,9.3
-100,A Nightmare on Elm Street,7.5
+8,Operation Christmas Drop,5.9
+9,Freaky,7.0
+10,Laxmii,2.2
+11,The Impossible,7.6
+12,Rebecca,6.0
+13,Come Away,5.8
+14,The Witches,5.4
+15,Tenet,7.8
+16,Greenland,6.4
+17,Ludo,7.6
+18,After We Collided,5.1
+19,His House,6.4
+20,Let Him Go,7.1
+21,Wild Mountain Thyme,
+22,The Devil All the Time,7.1
+23,Enola Holmes,6.6
+24,The SpongeBob Movie: Sponge on the Run,6.1
+25,Emma.,6.7
+26,The Dead Don't Die,5.5
+27,365 Days,3.3
+28,Spider-Man: Into the Spider-Verse,8.4
+29,Jingle Jangle: A Christmas Journey,6.7
+30,Love and Monsters,7.0
+31,Doctor Sleep,7.3
+32,The Gentlemen,7.8
+33,Jungleland,6.3
+34,Harry Potter and the Sorcerer's Stone,7.6
+35,Possessor Uncut,6.4
+36,Knives Out,7.9
+37,Parasite,8.6
+38,Mank,9.2
+39,Unhinged,6.0
+40,Rogue City,6.1
+41,Once Upon a Time... In Hollywood,7.6
+42,Soorarai Pottru,9.0
+43,Over the Moon,6.5
+44,Mile 22,6.1
+45,The Witch,6.9
+46,Aquaman,6.9
+47,The Dark and the Wicked,6.2
+48,Easy A,7.0
+49,Hubie Halloween,5.2
+50,Midnight at the Magnolia,6.1
+51,1917,8.3
+52,No Time to Die,
+53,Avengers: Endgame,8.4
+54,Bill & Ted Face the Music,6.1
+55,Mulan,5.4
+56,Clouds,7.5
+57,Stardust,3.8
+58,Dune,
+59,Chhalaang,6.9
+60,Mosul,5.6
+61,The Invisible Man,7.1
+62,Jojo Rabbit,7.9
+63,The Shawshank Redemption,9.3
+64,Come Play,5.8
+65,The Wolf of Wall Street,8.2
+66,Breach,
+67,321 Action,1.0
+68,Joker,8.5
+69,On the Rocks,6.5
+70,The Witches,6.9
+71,The Princess Switch: Switched Again,
+72,The Godfather,9.2
+73,Love Actually,7.6
+74,The Secret: Dare to Dream,6.4
+75,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,7.3
+76,Prospect,6.2
+77,The Craft: Legacy,4.2
+78,Doctor Strange in the Multiverse of Madness,
+79,Interstellar,8.6
+80,Midsommar,7.1
+81,One Flew Over the Cuckoo's Nest,8.7
+82,Inception,8.8
+83,Hamilton,8.6
+84,Hillbilly Elegy,5.8
+85,Antebellum,5.5
+86,Titanic,7.8
+87,Inglourious Basterds,8.3
+88,After,5.3
+89,Ocean's Eleven,7.7
+90,Fantastic Beasts: The Crimes of Grindelwald,6.6
+91,The Lord of the Rings: The Fellowship of the Ring,8.8
+92,Honest Thief,6.1
+93,The Batman,
+94,Little Women,7.8
+95,The Outpost,6.8
+96,Split,7.3
+97,The Suicide Squad,
+98,Star Wars: Episode IX - The Rise of Skywalker,6.6
+99,Snowden,7.3
+100,The Lie,5.8
